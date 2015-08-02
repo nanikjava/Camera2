@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/nanik/AndroidStudioProjects/Camera2/app/src/main/res/values-v19/styles.xml -->
+    <eat-comment/>
+    <style name="SwitcherButton">
+        <item name="android:layout_width">@dimen/switcher_size</item>
+        <item name="android:layout_height">@dimen/switcher_size</item>
+        <item name="android:background">@drawable/circle_bg_pressed_exit_fading</item>
+    </style>
+</resources>

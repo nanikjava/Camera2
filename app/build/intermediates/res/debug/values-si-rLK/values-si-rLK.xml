@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nanik/AndroidStudioProjects/Camera2/app/src/main/res/values-si-rLK/strings.xml -->
+    <eat-comment/>
+    <plurals name="delete_selection">
+    <item msgid="2984228592820245170" quantity="one">"තෝරගත් අයිතමය මකන්නද?"</item>
+    <item msgid="882035505847338991" quantity="other">"තෝරාගත් අයිතම මකන්නද?"</item>
+  </plurals>
+    <plurals name="number_of_albums_selected">
+    <item msgid="7322496523426352621" quantity="zero">"%1$d තෝරා ගන්නා ලදි"</item>
+    <item msgid="3571296348626418242" quantity="one">"%1$d තෝරා ගන්නා ලදි"</item>
+    <item msgid="3103452138866993468" quantity="other">"%1$d තෝරා ගන්නා ලදි"</item>
+  </plurals>
+    <plurals name="number_of_groups_selected">
+    <item msgid="3312206920893882756" quantity="zero">"%1$d තෝරා ගන්නා ලදි"</item>
+    <item msgid="7749557015923438739" quantity="one">"%1$d තෝරා ගන්නා ලදි"</item>
+    <item msgid="3562299676983425193" quantity="other">"%1$d තෝරා ගන්නා ලදි"</item>
+  </plurals>
+    <plurals name="number_of_items_selected">
+    <item msgid="629802015400399691" quantity="zero">"%1$d තෝරා ගන්නා ලදි"</item>
+    <item msgid="4283105620980058761" quantity="one">"%1$d තෝරා ගන්නා ලදි"</item>
+    <item msgid="6433812272993337098" quantity="other">"%1$d තෝරා ගන්නා ලදි"</item>
+  </plurals>
+    <plurals name="pref_camera_timer_entry">
+    <item msgid="8868342573738742056" quantity="one">"තත්පර 1"</item>
+    <item msgid="3053084895126759755" quantity="other">"තත්පර %d"</item>
+  </plurals>
+    <string msgid="7705342436207795167" name="access_sd_fail" product="default">"SD කාඩ් පතට ප්‍රවේශ විය නොහැක."</string>
+    <string msgid="6190311654361323510" name="accessibility_check_box">"සලකුණු කොටු %1$s"</string>
+    <string msgid="7265396535447770250" name="accessibility_menu_button">"මෙනු බොත්තම"</string>
+    <string msgid="5708483984757534790" name="accessibility_mode_picker">"කැමරාව, වීඩියෝව, හෝ පරිදර්ශනය තෝරන්න"</string>
+    <string msgid="8233210011810145540" name="accessibility_review_cancel">"අවලංගු කිරීම සමාලෝචනය කරන්න"</string>
+    <string msgid="1919818908740908312" name="accessibility_review_ok">"සමාලෝචනය අවසන්"</string>
+    <string msgid="3256541538259494381" name="accessibility_review_retake">"යළිගැනීම සමාලෝචනය කරන්න"</string>
+    <string msgid="442677115885353279" name="accessibility_shutter_button">"ශටරය"</string>
+    <string msgid="8253443632354129201" name="accessibility_switch_to_camera">"ඡායාරූපය වෙත මාරු වන්න"</string>
+    <string msgid="4367290605860986266" name="accessibility_switch_to_panorama">"පරිදර්ශනය වෙත මාරු වන්න"</string>
+    <string msgid="7282333436078515422" name="accessibility_switch_to_photo_sphere">"ඡායාරූප ගෝල වෙත මාරු වෙන්න"</string>
+    <string msgid="685379350229791000" name="accessibility_switch_to_video">"වීඩියෝව වෙත මාරු වන්න"</string>
+    <string msgid="4049918471495099840" name="aperture">"විවරය"</string>
+    <string msgid="8338864393568040722" name="app_name">"කැමරාව"</string>
+    <string msgid="6792260257128968793" name="auto">"ස්වයං"</string>
+    <string msgid="4927328535752421596" name="camera_disabled">"ආරක්ෂණ ප්‍රතිපත්ති නිසා කැමරාව අබල කර ඇත."</string>
+    <string msgid="434116066686973315" name="camera_error_title">"කැමරා දෝෂය"</string>
+    <string msgid="3997839063378329544" name="camera_menu_more_label">"තව විකල්ප"</string>
+    <string msgid="2038476709578884568" name="camera_menu_settings_label">"සැකසීම්"</string>
+    <string msgid="3323690925318631453" name="cannot_connect_camera">"කැමරාව වෙත සම්බන්ධ කළ නොහැක."</string>
+    <string msgid="3199056669644846925" name="capital_off">"අක්‍රියයි"</string>
+    <string msgid="5840588038158274585" name="capital_on">"සක්‍රීයයි"</string>
+    <string msgid="155262355011195942" name="clear_effects">"විලාස හිස් කරන්න"</string>
+    <string msgid="7196876073399885123" name="close">"වසන්න"</string>
+    <string msgid="8269417928362735617" name="count_down_title_text">"ඡායාරූපයක් ගැනීමට ආපස්සට ගණන් කෙරේ"</string>
+    <string msgid="3281088975169422593" name="crop_action">"කප්පාදු කිරීම"</string>
+    <string msgid="6708204358512805637" name="crop_saved">"<ns1:g id="FOLDER_NAME">%s</ns1:g> වෙත කප්පාදු කළ පින්තුරය සුරැකිණි."</string>
+    <string msgid="7258764001896874869" name="delete">"මකන්න"</string>
+    <string msgid="1144434522200481802" name="deleted">"මකාදමන ලදි"</string>
+    <string msgid="7012551348834166615" name="description">"විස්තරය"</string>
+    <string msgid="3581943734736871564" name="details">"විස්තර"</string>
+    <string msgid="681695897098326459" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="4368407634456462224" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="8097436389338241320" name="dialog_ok">"හරි"</string>
+    <string msgid="1998783741258561149" name="duration">"කාල සීමාව"</string>
+    <string msgid="8457904262004517151" name="edit">"සංස්කරණය කරන්න"</string>
+    <string msgid="3292606781700530872" name="effect_backdropper_gallery">"ඔබගේ වීඩියෝව"</string>
+    <string msgid="5794499374151237559" name="effect_backdropper_space">"අවකාශයෙහි"</string>
+    <string msgid="2431035827232871903" name="effect_backdropper_sunset">"ඉර බැසීම"</string>
+    <string msgid="2260438748276866983" name="effect_background">"පසුබිම"</string>
+    <string msgid="6904511475216683450" name="effect_goofy_face_big_eyes">"ලොකු ඇස්"</string>
+    <string msgid="4037032365093279045" name="effect_goofy_face_big_mouth">"ලොකු කට"</string>
+    <string msgid="6225216990258277302" name="effect_goofy_face_big_nose">"ලොකු නහය"</string>
+    <string msgid="547835991052738090" name="effect_goofy_face_small_eyes">"කුඩා ඇස්"</string>
+    <string msgid="5950057962899410295" name="effect_goofy_face_small_mouth">"කුඩා කට"</string>
+    <string msgid="1286464707958852799" name="effect_goofy_face_squeeze">"මිරිකන්න"</string>
+    <string msgid="1026487463817289779" name="effect_none">"කිසිවක් නැත"</string>
+    <string msgid="2764749499874707741" name="effect_silly_faces">"මෝඩ මුහුණු"</string>
+    <string msgid="6992897250021008387" name="exposure_time">"නිරාවරණ කාලය"</string>
+    <string msgid="624610858632029292" name="file_size">"ගොනු ප්‍රමාණය"</string>
+    <string msgid="8875025367055499744" name="flash">"සැණෙලිය"</string>
+    <string msgid="7313393221333362406" name="flash_off">"සැණෙලි නැත"</string>
+    <string msgid="4053187950402210000" name="flash_on">"සැණෙලි පත්තු කරන ලදී"</string>
+    <string msgid="7208863566011453148" name="focal_length">"නාභි දුර"</string>
+    <string msgid="3982701549798669179" name="height">"උස"</string>
+    <string msgid="4909058434077568534" name="iso">"ISO"</string>
+    <string msgid="7836832588874777265" name="location">"ස්ථානය"</string>
+    <string msgid="6997781789783937494" name="maker">"නිමැවුම්කරු"</string>
+    <string msgid="7862595820452711108" name="manual">"අතින් කරන"</string>
+    <string msgid="2655949175201126964" name="mimetype">"MIME වර්ගය"</string>
+    <string msgid="1812030182695078529" name="model">"අනුකෘතිය"</string>
+    <string msgid="5694411578108472132" name="no_storage" product="default">"කැමරාව භාවිතා කිරීමට පෙර SD කාඩ් පතක් ඇතුලු කරන්න."</string>
+    <string msgid="4186538577214404106" name="not_selectable_in_scene_mode">"දර්ශන ආකාරය තුළ තෝරාගත හැකි නොවේ"</string>
+    <string msgid="6270421867039429826" name="orientation">"දිශානතිය"</string>
+    <string msgid="6826745806103872825" name="pano_capture_indication">"පරිදර්ශනය ග්‍රහණය කෙරේ"</string>
+    <string msgid="1856809633978860743" name="pano_dialog_panorama_failed">"පරිදර්ශනය සුරැකිය නොහැක."</string>
+    <string msgid="7116632064591648365" name="pano_dialog_prepare_preview">"පරිදර්ශනය පිළියෙල වේ"</string>
+    <string msgid="7236715443943941505" name="pano_dialog_title">"පරිදර්ශනය"</string>
+    <string msgid="1379192572905837403" name="pano_dialog_waiting_previous">"පෙර පරිදර්ශනය සඳහා රැඳී සිටී"</string>
+    <string msgid="7712584259126188763" name="pano_review_rendering">"පරිදර්ශනය ප්‍රවාචනය"</string>
+    <string msgid="7006233508921435129" name="pano_review_saving_indication_str">"සුරැකේ...."</string>
+    <string msgid="992490587329437459" name="pano_too_fast_prompt">"ඉතා වේගවත්"</string>
+    <string msgid="7641372546343443225" name="path">"මග"</string>
+    <string msgid="99283054995831377" name="please_wait">"කරුණාකර රැඳී සිටින්න"</string>
+    <string msgid="4617708050480193189" name="pref_camcorder_settings_category">"කැම්කෝඩර සැකසීම්"</string>
+    <string msgid="2251170484933984740" name="pref_camera_countdown_label_fifteen">"තත්පර 15"</string>
+    <string msgid="1200317172301019900" name="pref_camera_countdown_label_off">"කාල ගණකය අක්‍රියයි"</string>
+    <string msgid="7105722039618597195" name="pref_camera_countdown_label_one">"තත්පර 1"</string>
+    <string msgid="8259680166571641702" name="pref_camera_countdown_label_ten">"තත්පර 10"</string>
+    <string msgid="113172366823379525" name="pref_camera_countdown_label_three">"තත්පර.3"</string>
+    <string msgid="415227229724303061" name="pref_camera_flashmode_entry_auto">"ස්වයං"</string>
+    <string msgid="8251029141614172527" name="pref_camera_flashmode_entry_off">"අක්‍රියයි"</string>
+    <string msgid="88773476344754314" name="pref_camera_flashmode_entry_on">"සක්‍රිය කරන්න"</string>
+    <string msgid="6684291276546279860" name="pref_camera_flashmode_label">"සැණෙළි ආකාරය"</string>
+    <string msgid="3099050003430647170" name="pref_camera_flashmode_label_auto">"සැණෙලි ස්වයං"</string>
+    <string msgid="1018914822085714107" name="pref_camera_flashmode_label_off">"සැණෙළිය අක්‍රියයි"</string>
+    <string msgid="2719503527558187559" name="pref_camera_flashmode_label_on">"සැණෙලිය සක්‍රියයි"</string>
+    <string msgid="4037454739283955642" name="pref_camera_flashmode_title">"සැණෙළි ප්‍රකාරය"</string>
+    <string msgid="2359207328353055475" name="pref_camera_focusmode_entry_auto">"ස්වයං"</string>
+    <string msgid="2864044462778663709" name="pref_camera_focusmode_entry_infinity">"අනන්තය"</string>
+    <string msgid="3737080531231192249" name="pref_camera_focusmode_entry_macro">"මැක්‍රො"</string>
+    <string msgid="3156723882642048128" name="pref_camera_focusmode_label_auto">"ස්වයංක්‍රීය"</string>
+    <string msgid="7911889349060603983" name="pref_camera_focusmode_label_infinity">"අනන්තය"</string>
+    <string msgid="4573817863140007172" name="pref_camera_focusmode_label_macro">"මැක්‍රො"</string>
+    <string msgid="4675290599521989576" name="pref_camera_focusmode_title">"නාභිගත ප්‍රකාරය"</string>
+    <string msgid="3566769675820087426" name="pref_camera_hdr_label">"HDR"</string>
+    <string msgid="8034690205259224353" name="pref_camera_id_entry_back">"ආපසු"</string>
+    <string msgid="2982741805298041753" name="pref_camera_id_entry_front">"ඉදිරිපස"</string>
+    <string msgid="6322318969185513097" name="pref_camera_id_label_back">"ඉදිරිපස කැමරාව"</string>
+    <string msgid="3244743091065982114" name="pref_camera_id_label_front">"පිටුපස කැමරාව"</string>
+    <string msgid="8027686978170301915" name="pref_camera_id_title">"කැමරාව තෝරන්න"</string>
+    <string msgid="725236612912086608" name="pref_camera_location_label">"ස්ථානය"</string>
+    <string msgid="3084140665950405601" name="pref_camera_picturesize_entry_13mp">"පික්සල් 13M"</string>
+    <string msgid="2279105572299544416" name="pref_camera_picturesize_entry_1_3mp">"පික්සල 1.3M"</string>
+    <string msgid="4015199907773658431" name="pref_camera_picturesize_entry_1mp">"පික්සල 1M"</string>
+    <string msgid="542341433431186453" name="pref_camera_picturesize_entry_2mp">"පික්සල 2M"</string>
+    <string msgid="607495602129189476" name="pref_camera_picturesize_entry_2mp_wide">"2M පික්සල් (16:9)"</string>
+    <string msgid="6233692859150247237" name="pref_camera_picturesize_entry_3mp">"පික්සල 3M"</string>
+    <string msgid="8546276478576735924" name="pref_camera_picturesize_entry_4mp">"4M පික්සල්"</string>
+    <string msgid="8813718385379530965" name="pref_camera_picturesize_entry_5mp">"පික්සල 5M"</string>
+    <string msgid="6497793506352769366" name="pref_camera_picturesize_entry_8mp">"පික්සල 8M"</string>
+    <string msgid="5211497128670067462" name="pref_camera_picturesize_entry_qvga">"QVGA"</string>
+    <string msgid="5417241189390562935" name="pref_camera_picturesize_entry_vga">"VGA"</string>
+    <string msgid="7285867796470070880" name="pref_camera_picturesize_title">"පින්තූර ප්‍රමාණය"</string>
+    <string msgid="9032205520216091730" name="pref_camera_recordlocation_title">"ආචය ස්ථානය"</string>
+    <string msgid="1837585145734214002" name="pref_camera_scenemode_entry_action">"ක්‍රියාව"</string>
+    <string msgid="7511260833909115424" name="pref_camera_scenemode_entry_auto">"ස්වයං"</string>
+    <string msgid="1240176231782477736" name="pref_camera_scenemode_entry_hdr">"HDR"</string>
+    <string msgid="7769610601562643051" name="pref_camera_scenemode_entry_night">"රාත්‍රී"</string>
+    <string msgid="2053177794948141241" name="pref_camera_scenemode_entry_party">"සාදය"</string>
+    <string msgid="8181732673387418710" name="pref_camera_scenemode_entry_sunset">"ඉර බැසීම"</string>
+    <string msgid="7770498283906927328" name="pref_camera_scenemode_label_action">"ක්‍රියාව"</string>
+    <string msgid="3930776963493458919" name="pref_camera_scenemode_label_auto">"කිසිවක් නැත"</string>
+    <string msgid="502442339727709162" name="pref_camera_scenemode_label_night">"රාත්‍රිය"</string>
+    <string msgid="8942534460201242073" name="pref_camera_scenemode_label_party">"සාදය"</string>
+    <string msgid="7721050709109503669" name="pref_camera_scenemode_label_sunset">"හිරු බැසීම"</string>
+    <string msgid="5200975368614697452" name="pref_camera_scenemode_title">"සිදුවීම් ආකාරය"</string>
+    <string msgid="4286755118301278593" name="pref_camera_settings_category">"කැමරා සැකසීම්"</string>
+    <string msgid="8640712080164781141" name="pref_camera_timer_sound_title">"ආපස්සට ගණන් කිරීමේ බීප් නාදය"</string>
+    <string msgid="6917581164323911874" name="pref_camera_timer_title">"ආපස්සට ගණන් කිරීමේ කාල ගණකය"</string>
+    <string msgid="8495359619521890418" name="pref_camera_whitebalance_entry_auto">"ස්වයං"</string>
+    <string msgid="3695152185934196085" name="pref_camera_whitebalance_entry_cloudy">"වලාකුළු සහිත"</string>
+    <string msgid="6066029271198399632" name="pref_camera_whitebalance_entry_daylight">"දිවා ආලෝකය"</string>
+    <string msgid="1957728582798422397" name="pref_camera_whitebalance_entry_fluorescent">"ප්‍රතිදීපන"</string>
+    <string msgid="374516940783347212" name="pref_camera_whitebalance_entry_incandescent">"තාපදීප්ත"</string>
+    <string msgid="4253164949812366852" name="pref_camera_whitebalance_label">"සුදු සමබරතාවය"</string>
+    <string msgid="1152472201811061031" name="pref_camera_whitebalance_label_auto">"ස්වයංක්‍රීය"</string>
+    <string msgid="7288490282713935868" name="pref_camera_whitebalance_label_cloudy">"වලාකුළු සහිත"</string>
+    <string msgid="3554450557101127960" name="pref_camera_whitebalance_label_daylight">"දිවා ආලෝකය"</string>
+    <string msgid="3654887484979718684" name="pref_camera_whitebalance_label_fluorescent">"ප්‍රතිදීපන"</string>
+    <string msgid="8920127934705255947" name="pref_camera_whitebalance_label_incandescent">"තාපදීප්ත"</string>
+    <string msgid="3555176845614423913" name="pref_camera_whitebalance_title">"සුදු සමබරතාව"</string>
+    <string msgid="5586132867242336300" name="pref_exposure_label">"නිරාවරණය"</string>
+    <string msgid="5211801488740367403" name="pref_exposure_title">"නිරාවරණය"</string>
+    <string msgid="2371174223707366255" name="pref_video_effect_title">"විලාස"</string>
+    <string msgid="2738623967850850381" name="pref_video_quality_entry_high">"ඉහළ"</string>
+    <string msgid="5153461037045200762" name="pref_video_quality_entry_low">"පහළ"</string>
+    <string msgid="133986891365610568" name="pref_video_quality_title">"වීඩියෝ ගුණත්වය"</string>
+    <string msgid="7640704589637632218" name="pref_video_time_lapse_frame_interval_1000">"තත්පර 1"</string>
+    <string msgid="6650102184647775722" name="pref_video_time_lapse_frame_interval_10000">"තත්පර 10"</string>
+    <string msgid="6261070817876538949" name="pref_video_time_lapse_frame_interval_10800000">"පැය 3"</string>
+    <string msgid="6753526423674050181" name="pref_video_time_lapse_frame_interval_12000">"තත්පර 12"</string>
+    <string msgid="7314050129714846577" name="pref_video_time_lapse_frame_interval_120000">"මිනිත්තු 2"</string>
+    <string msgid="1389025940394108838" name="pref_video_time_lapse_frame_interval_1440000">"මිනිත්තු 24"</string>
+    <string msgid="6980220047958957353" name="pref_video_time_lapse_frame_interval_14400000">"පැය 4"</string>
+    <string msgid="8931945040035127831" name="pref_video_time_lapse_frame_interval_1500">"තත්පර 1.5"</string>
+    <string msgid="531646722496644257" name="pref_video_time_lapse_frame_interval_15000">"තත්පර 15"</string>
+    <string msgid="4554449247426773111" name="pref_video_time_lapse_frame_interval_150000">"මිනිත්තු 2.5"</string>
+    <string msgid="4567679385417134299" name="pref_video_time_lapse_frame_interval_180000">"මිනිත්තු 3"</string>
+    <string msgid="3960495676390536948" name="pref_video_time_lapse_frame_interval_1800000">"පැය 0.5"</string>
+    <string msgid="7199366553142266407" name="pref_video_time_lapse_frame_interval_18000000">"පැය 5"</string>
+    <string msgid="3939716251293255146" name="pref_video_time_lapse_frame_interval_2000">"තත්පර 2"</string>
+    <string msgid="5736484130500539985" name="pref_video_time_lapse_frame_interval_21600000">"පැය 6"</string>
+    <string msgid="290145063080413411" name="pref_video_time_lapse_frame_interval_24000">"තත්පර 24"</string>
+    <string msgid="980170959249981779" name="pref_video_time_lapse_frame_interval_240000">"මිනිත්තු 4"</string>
+    <string msgid="7683749285828898630" name="pref_video_time_lapse_frame_interval_2500">"තත්පර 2.5"</string>
+    <string msgid="780624543534219753" name="pref_video_time_lapse_frame_interval_3000">"තත්පර 3"</string>
+    <string msgid="9079297914740012179" name="pref_video_time_lapse_frame_interval_30000">"මිනිත්තු 0.5"</string>
+    <string msgid="4134060119540433901" name="pref_video_time_lapse_frame_interval_300000">"මිනිත්තු 5"</string>
+    <string msgid="2279953220469717307" name="pref_video_time_lapse_frame_interval_360000">"මිනිත්තු 6"</string>
+    <string msgid="4967310075272642117" name="pref_video_time_lapse_frame_interval_3600000">"පැය 1"</string>
+    <string msgid="720554925530517471" name="pref_video_time_lapse_frame_interval_36000000">"පැය 10"</string>
+    <string msgid="8889653143865462502" name="pref_video_time_lapse_frame_interval_4000">"තත්පර 4"</string>
+    <string msgid="322398198717672456" name="pref_video_time_lapse_frame_interval_43200000">"පැය 12"</string>
+    <string msgid="8756750735297085410" name="pref_video_time_lapse_frame_interval_500">"තත්පර 0.5"</string>
+    <string msgid="4102268340899789227" name="pref_video_time_lapse_frame_interval_5000">"තත්පර 5"</string>
+    <string msgid="4381496945219954612" name="pref_video_time_lapse_frame_interval_5400000">"පැය 1.5"</string>
+    <string msgid="4545285575174744076" name="pref_video_time_lapse_frame_interval_54000000">"පැය 15"</string>
+    <string msgid="8603974284920017861" name="pref_video_time_lapse_frame_interval_6000">"තත්පර 6"</string>
+    <string msgid="3020106068480066496" name="pref_video_time_lapse_frame_interval_60000">"මිනිත්තු 1"</string>
+    <string msgid="262948882057819428" name="pref_video_time_lapse_frame_interval_600000">"මිනිත්තු 10"</string>
+    <string msgid="5025274021438060973" name="pref_video_time_lapse_frame_interval_720000">"මිනිත්තු 12"</string>
+    <string msgid="6542316368455276228" name="pref_video_time_lapse_frame_interval_7200000">"පැය 2"</string>
+    <string msgid="225288451792149886" name="pref_video_time_lapse_frame_interval_86400000">"පැය 24"</string>
+    <string msgid="2685855786622077615" name="pref_video_time_lapse_frame_interval_90000">"මිනිත්තු1.5"</string>
+    <string msgid="535122783273231729" name="pref_video_time_lapse_frame_interval_900000">"මිනිත්තු 15"</string>
+    <string msgid="7058722410153205915" name="pref_video_time_lapse_frame_interval_9000000">"පැය 2.5"</string>
+    <string msgid="8999446316706593179" name="pref_video_time_lapse_frame_interval_off">"අක්‍රියයි"</string>
+    <string msgid="5673396270006768004" name="pref_video_time_lapse_frame_interval_title">"කාලය ඉකුත්වීම"</string>
+    <string msgid="5062635071578247325" name="preparing_sd" product="default">"SD කාඩ්පත පිළියෙළ කෙරේ…"</string>
+    <string msgid="5160772992721036553" name="remember_location_no">"එපා ස්තූතියි"</string>
+    <string msgid="6856517328973384896" name="remember_location_prompt">"ඔබගේ ඡායාරූප සහ වීඩියෝ ඒවා ගත් ස්ථානය සමගින් ටැග් කරන්න.\n\nවෙනත් යෙදුම් වලට ඔබගේ සුරැකි පින්තුර සමගින් මෙම තොරතුරු වෙත ප්‍රවේශ විය හැක."</string>
+    <string msgid="2290717227833540397" name="remember_location_title">"ඡායාරූප ස්ථාන මතකද?"</string>
+    <string msgid="4663333638854720964" name="remember_location_yes">"ඔව්"</string>
+    <string msgid="6767345449862157889" name="rendering_photo_sphere">"ෆොටෝ ස්පීයර් ප්‍රවාචනය කරමින්"</string>
+    <string msgid="6719855780237705569" name="rotate_left">"වමට කරකවන්න"</string>
+    <string msgid="8558343437940821771" name="rotate_right">"දකුණට හරවන්න"</string>
+    <string msgid="7362777416265059096" name="set_as">"ලෙස සකසන්න"</string>
+    <string msgid="7425045408900251919" name="set_duration">"තත්පර වලින් කාල පරාස සකසන්න"</string>
+    <string msgid="3011821258780340803" name="set_image">"ලෙස පින්තූරය සකසන්න"</string>
+    <string msgid="844482952911185265" name="set_time_interval">"කාල අන්තරය පිහිටුවන්න"</string>
+    <string msgid="1403571747238933001" name="set_time_interval_help">"කාලය ඉකුත්වීමේ විශේෂාංගය අක්‍රියයි. කාල අන්තරය පිහිටුවීමට එය සක්‍රිය කරන්න."</string>
+    <string msgid="3321226648786639381" name="setting_off">"අක්‍රියයි"</string>
+    <string msgid="6658320155242340595" name="setting_on">"සක්‍රිය කරන්න"</string>
+    <string msgid="319799706929863109" name="share">"බෙදාගන්න"</string>
+    <string msgid="8960831195285082544" name="share_as_photo">"ඡායාරූපය ලෙස බෙදා ගන්න"</string>
+    <string msgid="7488525470543070168" name="share_panorama">"පරිදර්ශනය බෙදා ගන්න"</string>
+    <string msgid="1986264085815015696" name="show_on_map">"සිතියම මත පෙන්වන්න"</string>
+    <string msgid="9172166257752848178" name="spaceIsLow_content" product="default">"ඔබගේ SD කාඩ් පතේ ඉඩ අවසන් වෙමින් පවතී. ගුණත්ව සැකසීම් වෙනස් කරන්න හෝ සමහර පින්තුරය හෝ වෙනත් ගොනු මකන්න."</string>
+    <string msgid="3031819623593720463" name="tap_to_focus">"නාභිගත කිරීමට ස්පර්ශ කරන්න"</string>
+    <string msgid="53680310933472250" name="time">"වේලාව"</string>
+    <string msgid="2466092767364327518" name="time_lapse_hours">"පැය"</string>
+    <string msgid="5430624261132317167" name="time_lapse_interval_set">"අවසාන වූ"</string>
+    <string msgid="1610738675813013569" name="time_lapse_minutes">"මිනිත්තු"</string>
+    <string msgid="6338396613003859047" name="time_lapse_seconds">"තත්පර"</string>
+    <string msgid="264021984782348139" name="time_lapse_title">"කාලය ඉකුත්වීමේ පටිගත කිරීම"</string>
+    <string msgid="1465174588508188840" name="title">"මාතෘකාව"</string>
+    <string msgid="1912063594235898890" name="trim_action">"අහුකොන් කපන්න"</string>
+    <string msgid="1084363257705484486" name="try_to_set_local_album_available_offline">"මෙම අයිතමය ස්ථානිකව ගබඩා කර ඇති අතර නොබැඳිව ලබා ගත හැක."</string>
+    <string msgid="7561810819827468379" name="undo">"අස් කරන්න"</string>
+    <string msgid="1893537204908056363" name="unit_mm">"mm"</string>
+    <string msgid="2211992216750845926" name="unknown">"නොදනී"</string>
+    <string msgid="6747342411484597130" name="video_err">"වීඩියෝව ධාවනය කළ නොහැක."</string>
+    <string msgid="3243731908069056095" name="video_reach_size_limit">"ප්‍රමාණයේ සීමාව ලඟාවී ඇත."</string>
+    <string msgid="1478448043553326540" name="video_recording_started">"වීඩියෝව පටිගත කිරීම ඇරඹී ඇත."</string>
+    <string msgid="2676770458529207322" name="video_recording_stopped">"වීඩියෝව පටිගත කිරීම නැවතී ඇත."</string>
+    <string msgid="56511446769261564" name="video_snapshot_hint">"පටිගත කිරීම අතරතුර ඡායාරූපයක් ගැනීමට ස්පර්ශ කරන්න."</string>
+    <string msgid="2081747495953883435" name="wait">"කරුණාකර රැඳී සිටින්න..."</string>
+    <string msgid="2638519262687012770" name="white_balance">"සුදු සමබරතාව"</string>
+    <string msgid="4689895076320623907" name="width">"පළල"</string>
+</resources>

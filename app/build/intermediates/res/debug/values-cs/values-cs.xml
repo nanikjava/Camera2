@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/nanik/AndroidStudioProjects/Camera2/app/src/main/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <plurals name="delete_selection">
+    <item msgid="8811352590292754044" quantity="one">"Smazat vybranou položku?"</item>
+    <item msgid="5075283252850066610" quantity="other">"Smazat vybrané položky?"</item>
+  </plurals>
+    <plurals name="number_of_albums_selected">
+    <item msgid="8095100906728830821" quantity="zero">"Vybráno: %1$d"</item>
+    <item msgid="9063509704521984072" quantity="one">"Vybráno: %1$d"</item>
+    <item msgid="135044054552480485" quantity="other">"Vybráno: %1$d"</item>
+  </plurals>
+    <plurals name="number_of_groups_selected">
+    <item msgid="1942343672734097509" quantity="zero">"Vybráno: %1$d"</item>
+    <item msgid="1456436514367094505" quantity="one">"Vybráno: %1$d"</item>
+    <item msgid="1511467088339194694" quantity="other">"Vybráno: %1$d"</item>
+  </plurals>
+    <plurals name="number_of_items_selected">
+    <item msgid="9217673864242686656" quantity="zero">"Vybráno: %1$d"</item>
+    <item msgid="5806616411905812727" quantity="one">"Vybráno: %1$d"</item>
+    <item msgid="3767743589502328221" quantity="other">"Vybráno: %1$d"</item>
+  </plurals>
+    <plurals name="pref_camera_timer_entry">
+    <item msgid="8919878087230098328" quantity="one">"1 s"</item>
+    <item msgid="5782794798884172289" quantity="other">"%d s"</item>
+  </plurals>
+    <string msgid="2634861611082499811" name="access_sd_fail" product="default">"Nelze získat přístup ke kartě SD."</string>
+    <string msgid="1084094675439953723" name="accessibility_check_box">"Zaškrtávací políčko %1$s"</string>
+    <string msgid="7692103503958544723" name="accessibility_menu_button">"Tlačítko Menu"</string>
+    <string msgid="5107120667206453381" name="accessibility_mode_picker">"Přepínač mezi panoramatickým režimem a režimy fotoaparátu a videokamery"</string>
+    <string msgid="5462850829869569629" name="accessibility_review_cancel">"Zrušit"</string>
+    <string msgid="3486465319880320270" name="accessibility_review_ok">"Hotovo"</string>
+    <string msgid="2547112860787022130" name="accessibility_review_retake">"Pořídit další"</string>
+    <string msgid="6040483605347230438" name="accessibility_shutter_button">"Závěrka"</string>
+    <string msgid="4518394037216725274" name="accessibility_switch_to_camera">"Přepnout na fotoaparát"</string>
+    <string msgid="7562625440767034695" name="accessibility_switch_to_gcam">"Přepnout na vysokou kvalitu"</string>
+    <string msgid="8322228859117808037" name="accessibility_switch_to_panorama">"Přepnout do panoramatického režimu"</string>
+    <string msgid="5803217570370854725" name="accessibility_switch_to_photo_sphere">"Přepnout do režimu Photo Sphere"</string>
+    <string msgid="8174781871592793967" name="accessibility_switch_to_video">"Přepnout na video"</string>
+    <string msgid="2453802098282814022" name="aperture">"Clona"</string>
+    <string msgid="1175086483881127797" name="app_name">"Fotoaparát"</string>
+    <string msgid="2552649885114400474" name="auto">"Automaticky"</string>
+    <string msgid="6963443549010040595" name="camera_disabled">"Fotoaparát byl z důvodu zásad zabezpečení deaktivován."</string>
+    <string msgid="6200558085072670067" name="camera_error_title">"Chyba fotoaparátu"</string>
+    <string msgid="7951917844735828365" name="camera_menu_more_label">"DALŠÍ MOŽNOSTI"</string>
+    <string msgid="3862756725328016822" name="camera_menu_settings_label">"NASTAVENÍ"</string>
+    <string msgid="4311259792784598381" name="cannot_connect_camera">"Nelze se připojit k fotoaparátu."</string>
+    <string msgid="4100136187076585580" name="cannot_load_image">"Obrázek nelze načíst!"</string>
+    <string msgid="3020696135020167263" name="capital_off">"VYP"</string>
+    <string msgid="1118214824959797269" name="capital_on">"ZAP."</string>
+    <string msgid="5255164204641920893" name="capturing">"Pořizování snímku"</string>
+    <string msgid="6192797848995967992" name="clear_effects">"Vymazat efekty"</string>
+    <string msgid="4826166926297479820" name="close">"Zavřít"</string>
+    <string msgid="7586031110595513050" name="count_down_title_text">"Odpočítávání spouště fotoaparátu"</string>
+    <string msgid="5186918191372107343" name="create_tiny_planet">"Vytvořit malou planetu"</string>
+    <string msgid="6933589718464132714" name="crop_action">"Oříznout"</string>
+    <string msgid="2841974981340098579" name="crop_save">"Uložit"</string>
+    <string msgid="4465794038855602739" name="crop_saved">"Oříznutý snímek byl uložen do složky <ns1:g id="FOLDER_NAME">%s</ns1:g>."</string>
+    <string msgid="2714492172818940424" name="delete">"Smazat"</string>
+    <string msgid="2036165115527228127" name="deleted">"Smazáno"</string>
+    <string msgid="8193138501982849808" name="description">"Popis"</string>
+    <string msgid="4404020741542549488" name="details">"Podrobnosti"</string>
+    <string msgid="4842276230698703554" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="6618163484662724641" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="774141340500181131" name="dialog_ok">"OK"</string>
+    <string msgid="5316211067383665008" name="duration">"Doba trvání"</string>
+    <string msgid="2776879395749004347" name="edit">"Upravit"</string>
+    <string msgid="2333888391153564920" name="effect_backdropper_gallery">"Vaše video"</string>
+    <string msgid="9133825395915767627" name="effect_backdropper_space">"Ve vesmíru"</string>
+    <string msgid="7354053769863638757" name="effect_backdropper_sunset">"Západ slunce"</string>
+    <string msgid="1358432220077975015" name="effect_background">"POZADÍ"</string>
+    <string msgid="9220121522816762649" name="effect_goofy_face_big_eyes">"Velké oči"</string>
+    <string msgid="2064008284599552683" name="effect_goofy_face_big_mouth">"Velká ústa"</string>
+    <string msgid="6936976307035428164" name="effect_goofy_face_big_nose">"Velký nos"</string>
+    <string msgid="558042211252573238" name="effect_goofy_face_small_eyes">"Malé oči"</string>
+    <string msgid="3105849596912069261" name="effect_goofy_face_small_mouth">"Malá ústa"</string>
+    <string msgid="1362021544829311452" name="effect_goofy_face_squeeze">"Zmáčknout"</string>
+    <string msgid="3102797925086872636" name="effect_none">"Žádný"</string>
+    <string msgid="7952713419757286453" name="effect_silly_faces">"BLÁZNIVÉ TVÁŘE"</string>
+    <string msgid="949787291620767754" name="exposure_time">"Expoziční čas"</string>
+    <string msgid="6841070748357980676" name="file_size">"Velik. souboru"</string>
+    <string msgid="995041910749174196" name="flash">"Blesk"</string>
+    <string msgid="7889323512830926273" name="flash_off">"Bez blesku"</string>
+    <string msgid="6573457197393807642" name="flash_on">"S bleskem"</string>
+    <string msgid="8351221512187346229" name="focal_length">"Ohnisková vzd."</string>
+    <string msgid="5186001199353423689" name="height">"Výška"</string>
+    <string msgid="8578773821062054902" name="iso">"ISO"</string>
+    <string msgid="564326205780827668" name="location">"Poloha"</string>
+    <string msgid="698691509121545856" name="maker">"Autor"</string>
+    <string msgid="2444400953521760140" name="manual">"Ručně"</string>
+    <string msgid="6415940055077963944" name="mimetype">"Typ MIME"</string>
+    <string msgid="8547493604023069452" name="model">"Model"</string>
+    <string msgid="5922012950780548098" name="no_storage" product="default">"Před použitím fotoaparátu vložte kartu SD."</string>
+    <string msgid="3260801086980522611" name="not_selectable_in_scene_mode">"Tuto možnost ve scénickém režimu vybrat nelze."</string>
+    <string msgid="3883761294106680270" name="orientation">"Orientace"</string>
+    <string msgid="4002128831255023954" name="pano_capture_indication">"Snímání panoramatu"</string>
+    <string msgid="6772546547048693619" name="pano_dialog_panorama_failed">"Panoramatickou fotku nelze uložit."</string>
+    <string msgid="4445235163599534263" name="pano_dialog_prepare_preview">"Příprava panoramatu"</string>
+    <string msgid="6662642763395425145" name="pano_dialog_title">"Panoráma"</string>
+    <string msgid="2646847402743245320" name="pano_dialog_waiting_previous">"Čeká se na předchozí panoráma"</string>
+    <string msgid="2743087719999377155" name="pano_review_rendering">"Vykreslování panoramatu"</string>
+    <string msgid="4691771283450663293" name="pano_review_saving_indication_str">"Ukládání…"</string>
+    <string msgid="2503148095578052177" name="pano_too_fast_prompt">"Moc rychle"</string>
+    <string msgid="5927003361865586353" name="path">"Cesta"</string>
+    <string msgid="1416313324505140068" name="please_wait">"Čekejte prosím"</string>
+    <string msgid="3553148484755353397" name="pref_camcorder_settings_category">"Nastavení videokamery"</string>
+    <string msgid="8469955900530268867" name="pref_camera_countdown_label_fifteen">"15 SEKUND"</string>
+    <string msgid="3986433580620011481" name="pref_camera_countdown_label_off">"ČASOVAČ VYPNUT"</string>
+    <string msgid="7647972711796868848" name="pref_camera_countdown_label_one">"1 SEKUNDA"</string>
+    <string msgid="4372650985906500604" name="pref_camera_countdown_label_ten">"10 SEKUND"</string>
+    <string msgid="3154170918067103541" name="pref_camera_countdown_label_three">"3 SEKUNDY"</string>
+    <string msgid="4211992591841657014" name="pref_camera_flashmode_entry_auto">"Automaticky"</string>
+    <string msgid="8861322265566617357" name="pref_camera_flashmode_entry_off">"Vypnuto"</string>
+    <string msgid="3519831202665377698" name="pref_camera_flashmode_entry_on">"Zapnuto"</string>
+    <string msgid="5852483713534762800" name="pref_camera_flashmode_label">"REŽIM BLESKU"</string>
+    <string msgid="2309144918900450379" name="pref_camera_flashmode_label_auto">"AUTOMATICKÝ BLESK"</string>
+    <string msgid="7175863901446001441" name="pref_camera_flashmode_label_off">"BLESK VYPNUT"</string>
+    <string msgid="373595517770024934" name="pref_camera_flashmode_label_on">"BLESK ZAPNUT"</string>
+    <string msgid="8363803841022314574" name="pref_camera_flashmode_title">"Režim blesku"</string>
+    <string msgid="8977409813328199501" name="pref_camera_focusmode_entry_auto">"Automaticky"</string>
+    <string msgid="3887667853236656322" name="pref_camera_focusmode_entry_infinity">"Nekonečno"</string>
+    <string msgid="7632276686726851426" name="pref_camera_focusmode_entry_macro">"Makro"</string>
+    <string msgid="4884418453600317694" name="pref_camera_focusmode_label_auto">"AUTOMATICKY"</string>
+    <string msgid="1673352016120343314" name="pref_camera_focusmode_label_infinity">"NEKONEČNO"</string>
+    <string msgid="5065639298027996399" name="pref_camera_focusmode_label_macro">"MAKRO"</string>
+    <string msgid="3637702747984180030" name="pref_camera_focusmode_title">"Režim zaostření"</string>
+    <string msgid="1918040375414771185" name="pref_camera_hdr_label">"HDR"</string>
+    <string msgid="6386943973628160510" name="pref_camera_id_entry_back">"Zpět"</string>
+    <string msgid="6233067010315787044" name="pref_camera_id_entry_front">"Přední"</string>
+    <string msgid="1645608049757733858" name="pref_camera_id_label_back">"PŘEDNÍ FOTOAPARÁT"</string>
+    <string msgid="349308803062874842" name="pref_camera_id_label_front">"ZADNÍ FOTOAPARÁT"</string>
+    <string msgid="4680648115225411185" name="pref_camera_id_title">"Zvolit fotoaparát"</string>
+    <string msgid="8695441802378057719" name="pref_camera_location_label">"POLOHA"</string>
+    <string msgid="6728485576074234195" name="pref_camera_picturesize_entry_13mp">"13 Mpx"</string>
+    <string msgid="3451742533756821502" name="pref_camera_picturesize_entry_1_3mp">"1,3 Mpx"</string>
+    <string msgid="7089801019442294745" name="pref_camera_picturesize_entry_1_5mp">"1,5 Mpx"</string>
+    <string msgid="5043732005295894167" name="pref_camera_picturesize_entry_1mp">"1 Mpx"</string>
+    <string msgid="450006451326859328" name="pref_camera_picturesize_entry_2mp">"2 Mpx"</string>
+    <string msgid="1877997036497332813" name="pref_camera_picturesize_entry_2mp_wide">"2 Mpx (16:9)"</string>
+    <string msgid="140799231761236311" name="pref_camera_picturesize_entry_3mp">"3 Mpx"</string>
+    <string msgid="3338812763544573634" name="pref_camera_picturesize_entry_4mp_wide">"4 Mpx (16:9)"</string>
+    <string msgid="1501745661448065284" name="pref_camera_picturesize_entry_5mp">"5 Mpx"</string>
+    <string msgid="7088352012301633667" name="pref_camera_picturesize_entry_8mp">"8 Mpx"</string>
+    <string msgid="6134562622041084167" name="pref_camera_picturesize_entry_qvga">"QVGA"</string>
+    <string msgid="7387786033708903628" name="pref_camera_picturesize_entry_vga">"VGA"</string>
+    <string msgid="686045304547541815" name="pref_camera_picturesize_title">"Velikost fotografie"</string>
+    <string msgid="3354956161456185749" name="pref_camera_recordlocation_title">"Ukládat polohu"</string>
+    <string msgid="5753183620959062015" name="pref_camera_scenemode_entry_action">"Akce"</string>
+    <string msgid="9205644316260850379" name="pref_camera_scenemode_entry_auto">"Automaticky"</string>
+    <string msgid="3098836808080630955" name="pref_camera_scenemode_entry_hdr">"HDR"</string>
+    <string msgid="6759085555519758794" name="pref_camera_scenemode_entry_hdr_plus">"HDR+"</string>
+    <string msgid="3468037364159759991" name="pref_camera_scenemode_entry_night">"Noc"</string>
+    <string msgid="401232668169066415" name="pref_camera_scenemode_entry_party">"Oslava"</string>
+    <string msgid="5884302914893488509" name="pref_camera_scenemode_entry_sunset">"Západ slunce"</string>
+    <string msgid="7694606461440250206" name="pref_camera_scenemode_entry_turn_hdr_off">"HDR VYPNUTO"</string>
+    <string msgid="5232394324298489502" name="pref_camera_scenemode_entry_turn_hdr_on">"HDR ZAPNUTO"</string>
+    <string msgid="2668770361856397834" name="pref_camera_scenemode_entry_turn_hdr_plus_off">"HDR+ VYPNUTO"</string>
+    <string msgid="1096746750342289067" name="pref_camera_scenemode_entry_turn_hdr_plus_on">"HDR+ ZAPNUTO"</string>
+    <string msgid="1822814017595414923" name="pref_camera_scenemode_label_action">"AKCE"</string>
+    <string msgid="2874586883608401615" name="pref_camera_scenemode_label_auto">"ŽÁDNÉ"</string>
+    <string msgid="7764371228088101131" name="pref_camera_scenemode_label_night">"NOC"</string>
+    <string msgid="917499272505930322" name="pref_camera_scenemode_label_party">"OSLAVA"</string>
+    <string msgid="3443610538453611123" name="pref_camera_scenemode_label_sunset">"ZÁPAD SLUNCE"</string>
+    <string msgid="5709932164781367066" name="pref_camera_scenemode_title">"Scénický režim"</string>
+    <string msgid="4274141528139077830" name="pref_camera_settings_category">"Nastavení fotoaparátu"</string>
+    <string msgid="9036987234878551217" name="pref_camera_timer_sound_title">"Zvuk při odpočtu"</string>
+    <string msgid="4728838281741571323" name="pref_camera_timer_title">"Časovač odpočítávání"</string>
+    <string msgid="1390631794449502796" name="pref_camera_whitebalance_entry_auto">"Automaticky"</string>
+    <string msgid="3569589102226796875" name="pref_camera_whitebalance_entry_cloudy">"Zataženo"</string>
+    <string msgid="757833578153467254" name="pref_camera_whitebalance_entry_daylight">"Denní světlo"</string>
+    <string msgid="5157027611220790970" name="pref_camera_whitebalance_entry_fluorescent">"Zářivka"</string>
+    <string msgid="1140391575294372706" name="pref_camera_whitebalance_entry_incandescent">"Žárovka"</string>
+    <string msgid="7370366644738746700" name="pref_camera_whitebalance_label">"VYVÁŽENÍ BÍLÉ"</string>
+    <string msgid="4305837287360485369" name="pref_camera_whitebalance_label_auto">"AUTOMATICKY"</string>
+    <string msgid="4880793739075193336" name="pref_camera_whitebalance_label_cloudy">"ZATAŽENO"</string>
+    <string msgid="4562002095198912409" name="pref_camera_whitebalance_label_daylight">"DENNÍ SVĚTLO"</string>
+    <string msgid="10552295745391742" name="pref_camera_whitebalance_label_fluorescent">"ZÁŘIVKA"</string>
+    <string msgid="2860805668879945185" name="pref_camera_whitebalance_label_incandescent">"ŽÁROVKA"</string>
+    <string msgid="7962809566612868179" name="pref_camera_whitebalance_title">"Vyvážení bílé"</string>
+    <string msgid="2604738602400261218" name="pref_exposure_label">"EXPOZICE"</string>
+    <string msgid="7525751789152582800" name="pref_exposure_title">"Expozice"</string>
+    <string msgid="594570613431209010" name="pref_video_effect_title">"Efekty"</string>
+    <string msgid="1613578418842803393" name="pref_video_quality_entry_high">"Vysoká"</string>
+    <string msgid="737962621299050603" name="pref_video_quality_entry_low">"Nízká"</string>
+    <string msgid="5887153490982738588" name="pref_video_quality_title">"Kvalita videa"</string>
+    <string msgid="9126255690984179200" name="pref_video_time_lapse_frame_interval_1000">"1 sekunda"</string>
+    <string msgid="1126841483618922521" name="pref_video_time_lapse_frame_interval_10000">"10 sekund"</string>
+    <string msgid="4064231412857457518" name="pref_video_time_lapse_frame_interval_10800000">"3 hodiny"</string>
+    <string msgid="8769265988037327085" name="pref_video_time_lapse_frame_interval_12000">"12 sekund"</string>
+    <string msgid="126293364329503816" name="pref_video_time_lapse_frame_interval_120000">"2 minuty"</string>
+    <string msgid="5691479246748705053" name="pref_video_time_lapse_frame_interval_1440000">"24 minut"</string>
+    <string msgid="5174457951350690217" name="pref_video_time_lapse_frame_interval_14400000">"4 hodiny"</string>
+    <string msgid="5793250074165436905" name="pref_video_time_lapse_frame_interval_1500">"1,5 sekundy"</string>
+    <string msgid="1452711342185926617" name="pref_video_time_lapse_frame_interval_15000">"15 sekund"</string>
+    <string msgid="3469164780802564276" name="pref_video_time_lapse_frame_interval_150000">"2,5 minuty"</string>
+    <string msgid="6840421790710639463" name="pref_video_time_lapse_frame_interval_180000">"3 minuty"</string>
+    <string msgid="8331728629455012478" name="pref_video_time_lapse_frame_interval_1800000">"0,5 hodiny"</string>
+    <string msgid="5091441456160949740" name="pref_video_time_lapse_frame_interval_18000000">"5 hodin"</string>
+    <string msgid="1821755013078449188" name="pref_video_time_lapse_frame_interval_2000">"2 sekundy"</string>
+    <string msgid="6924571987775154098" name="pref_video_time_lapse_frame_interval_21600000">"6 hodin"</string>
+    <string msgid="2505505645705111419" name="pref_video_time_lapse_frame_interval_24000">"24 sekund"</string>
+    <string msgid="1682865866425206481" name="pref_video_time_lapse_frame_interval_240000">"4 minuty"</string>
+    <string msgid="8027471301321122045" name="pref_video_time_lapse_frame_interval_2500">"2,5 sekundy"</string>
+    <string msgid="1411114492405867872" name="pref_video_time_lapse_frame_interval_3000">"3 sekundy"</string>
+    <string msgid="3965378176246680626" name="pref_video_time_lapse_frame_interval_30000">"0,5 minuty"</string>
+    <string msgid="6068734332915957652" name="pref_video_time_lapse_frame_interval_300000">"5 minut"</string>
+    <string msgid="4692565393277579688" name="pref_video_time_lapse_frame_interval_360000">"6 minut"</string>
+    <string msgid="4829442147263610121" name="pref_video_time_lapse_frame_interval_3600000">"1 hodina"</string>
+    <string msgid="6959912631566981301" name="pref_video_time_lapse_frame_interval_36000000">"10 hodin"</string>
+    <string msgid="1197483421014140132" name="pref_video_time_lapse_frame_interval_4000">"4 sekundy"</string>
+    <string msgid="6426833030111269499" name="pref_video_time_lapse_frame_interval_43200000">"12 hodin"</string>
+    <string msgid="1425296755074319221" name="pref_video_time_lapse_frame_interval_500">"0,5 sekundy"</string>
+    <string msgid="7211885329755347592" name="pref_video_time_lapse_frame_interval_5000">"5 sekund"</string>
+    <string msgid="7011488725038113884" name="pref_video_time_lapse_frame_interval_5400000">"1,5 hodiny"</string>
+    <string msgid="6688725497680331090" name="pref_video_time_lapse_frame_interval_54000000">"15 hodin"</string>
+    <string msgid="6665825017557898190" name="pref_video_time_lapse_frame_interval_6000">"6 sekund"</string>
+    <string msgid="1878467100201983878" name="pref_video_time_lapse_frame_interval_60000">"1 minuta"</string>
+    <string msgid="7109530398883649472" name="pref_video_time_lapse_frame_interval_600000">"10 minut"</string>
+    <string msgid="259321148909130247" name="pref_video_time_lapse_frame_interval_720000">"12 minut"</string>
+    <string msgid="7399563587870916008" name="pref_video_time_lapse_frame_interval_7200000">"2 hodiny"</string>
+    <string msgid="5510320806095156153" name="pref_video_time_lapse_frame_interval_86400000">"24 hodin"</string>
+    <string msgid="496651530019049822" name="pref_video_time_lapse_frame_interval_90000">"1,5 minuty"</string>
+    <string msgid="6814816608134052996" name="pref_video_time_lapse_frame_interval_900000">"15 minut"</string>
+    <string msgid="1545856778907835970" name="pref_video_time_lapse_frame_interval_9000000">"2,5 hodiny"</string>
+    <string msgid="3909611941842585497" name="pref_video_time_lapse_frame_interval_off">"Vypnuto"</string>
+    <string msgid="4975260837607993569" name="pref_video_time_lapse_frame_interval_title">"Časosběr"</string>
+    <string msgid="7435693655017362767" name="preparing_sd" product="default">"Příprava karty SD…"</string>
+    <string msgid="4412802756840226925" name="remember_location_no">"Díky, nemám zájem"</string>
+    <string msgid="5104210757873140169" name="remember_location_prompt">"Přidejte do fotek a videí označení míst, kde jste je pořídili.\n\nOstatní aplikace budou mít k těmto informacím přístup společně s přístupem k uloženým obrázkům."</string>
+    <string msgid="3045040613094030429" name="remember_location_title">"Pamatovat, kde byly fotky pořízeny?"</string>
+    <string msgid="4339424460683531388" name="remember_location_yes">"Ano"</string>
+    <string msgid="3032858512989313215" name="rendering_photo_sphere">"Vykreslování Photo Sphere"</string>
+    <string msgid="2618440058490662604" name="rotate_left">"Otočit doleva"</string>
+    <string msgid="4896096424267838355" name="rotate_right">"Otočit doprava"</string>
+    <string msgid="8828265180177375494" name="saving_tiny_planet">"Ukládání malé planety…"</string>
+    <string msgid="5469055085024870081" name="set_as">"Nastavit jako"</string>
+    <string msgid="1638453882581604341" name="set_duration">"Nastavit dobu v sekundách"</string>
+    <string msgid="3969690281401045698" name="set_image">"Nastavit fotku jako"</string>
+    <string msgid="2531393962847535331" name="set_time_interval">"Nastavit časový interval"</string>
+    <string msgid="64145154088021389" name="set_time_interval_help">"Funkce časosběr je vypnutá. Zapněte ji a nastavte časový interval."</string>
+    <string msgid="6782191065550276632" name="setting_off">"Vypnuto"</string>
+    <string msgid="9086728135773197891" name="setting_on">"Zapnuto"</string>
+    <string msgid="2397759659347872725" name="setting_wallpaper">"Nastavování tapety"</string>
+    <string msgid="8581089487762243115" name="share">"Sdílet"</string>
+    <string msgid="4831213580709167218" name="share_as_photo">"Sdílet jako fotku"</string>
+    <string msgid="3558466186935359444" name="share_panorama">"Sdílet panorama"</string>
+    <string msgid="8542853913632649160" name="show_on_map">"Zobrazit na mapě"</string>
+    <string msgid="4522771065344332702" name="spaceIsLow_content" product="default">"Na kartě SD je málo místa. Změňte nastavení kvality nebo smažte některé obrázky či jiné soubory."</string>
+    <string msgid="1448511001008888767" name="switch_photo_filmstrip">"Zobrazení filmového pásu"</string>
+    <string msgid="3519718196270593468" name="tap_to_focus">"Dotykem zaostříte."</string>
+    <string msgid="5248213506417024287" name="time">"Čas"</string>
+    <string msgid="5294001144133261436" name="time_lapse_hours">"hod"</string>
+    <string msgid="2418594453248958440" name="time_lapse_interval_set">"Hotovo"</string>
+    <string msgid="5325447383033224679" name="time_lapse_minutes">"min"</string>
+    <string msgid="7319683099532506270" name="time_lapse_seconds">"s"</string>
+    <string msgid="3267978566401228497" name="time_lapse_title">"Časosběrný záznam"</string>
+    <string msgid="5445336705705350004" name="tiny_planet_rotate">"Otáčení"</string>
+    <string msgid="2985522360577158474" name="tiny_planet_zoom">"Lupa"</string>
+    <string msgid="8061744305671964703" name="title">"Název"</string>
+    <string msgid="4736803320203951827" name="trim_action">"Oříznout"</string>
+    <string msgid="3363125545009254117" name="try_to_set_local_album_available_offline">"Tato položka je uložena v místním úložišti a je k dispozici offline."</string>
+    <string msgid="5110048345890050107" name="undo">"VRÁTIT ZPĚT"</string>
+    <string msgid="5210344300697638286" name="unit_mm">"mm"</string>
+    <string msgid="564184550182858146" name="unknown">"Neznámé"</string>
+    <string msgid="1723708322021743770" name="video_camera_label">"Videokamera"</string>
+    <string msgid="1562566029875081552" name="video_err">"Video nelze přehrát."</string>
+    <string msgid="9196836111505731836" name="video_reach_size_limit">"Bylo dosaženo limitu velikosti."</string>
+    <string msgid="3374878415050991030" name="video_recording_started">"Záznam videa byl zahájen."</string>
+    <string msgid="4658626532857624974" name="video_recording_stopped">"Záznam videa byl zastaven."</string>
+    <string msgid="2707403607250082339" name="video_snapshot_hint">"Dotykem v průběhu nahrávání pořídíte snímek."</string>
+    <string msgid="765601745709933047" name="wait">"Čekejte prosím…"</string>
+    <string msgid="1600142743496129085" name="white_balance">"Vyvážení bílé"</string>
+    <string msgid="7045750687833828758" name="width">"Šířka"</string>
+</resources>

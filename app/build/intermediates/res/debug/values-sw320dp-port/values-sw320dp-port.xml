@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/nanik/AndroidStudioProjects/Camera2/app/src/main/res/values-sw320dp-port/photoeditor_dimens.xml -->
+    <eat-comment/>
+    <dimen name="action_bar_icon_padding_vertical">8dp</dimen>
+    <dimen name="action_button_padding_vertical">8dp</dimen>
+</resources>
